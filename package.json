@@ -1,0 +1,15 @@
+{
+  "name": "sass-css-session",
+  "version": "1.0.0",
+  "description": "CSS Authoring framework usinf SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "SASS"
+  ],
+  "author": "Sandeep Kumar Patel",
+  "license": "ISC"
+}
